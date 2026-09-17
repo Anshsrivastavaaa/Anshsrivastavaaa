@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI & Data Science Engineering Student | Full-Stack Developer (MERN & Next.js) | Passionate about building scalable web applications and algorithmic optimization for real-world infrastructure.
+AI & Data Science Engineering Student | Passionate about building scalable web applications and algorithmic optimization for real-world infrastructure.
 
 
 ## 🌐 Socials:
